@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sky Zhao
-- 👀 I’m interested in ...
+- 👀 I’m interested in Frontend Development 
 - 🌱 I’m currently learning at University of California, Davis
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me skyzhao04@gmail.com
+- 💞️ I’m looking to collaborate on PureChart
+- 📫 How to reach me skzhao@ucdavis.edu
 
 <!---
 skyz04/skyz04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
