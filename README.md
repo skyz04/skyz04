@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sky Zhao
-- 👀 I’m interested in Frontend Development 
+- 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning at University of California, Davis
-- 💞️ I’m looking to collaborate on PureChart
+- 💞️ I’m looking to collaborate on JVMC Tech
 - 📫 How to reach me skzhao@ucdavis.edu
 
 <!---
